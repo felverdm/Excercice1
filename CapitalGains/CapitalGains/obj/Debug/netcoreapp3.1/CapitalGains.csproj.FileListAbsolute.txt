@@ -1,0 +1,15 @@
+D:\Felver\Proyectos Software\Prueba NuBank\CapitalGains\CapitalGains\bin\Debug\netcoreapp3.1\CapitalGains.exe
+D:\Felver\Proyectos Software\Prueba NuBank\CapitalGains\CapitalGains\bin\Debug\netcoreapp3.1\CapitalGains.deps.json
+D:\Felver\Proyectos Software\Prueba NuBank\CapitalGains\CapitalGains\bin\Debug\netcoreapp3.1\CapitalGains.runtimeconfig.json
+D:\Felver\Proyectos Software\Prueba NuBank\CapitalGains\CapitalGains\bin\Debug\netcoreapp3.1\CapitalGains.runtimeconfig.dev.json
+D:\Felver\Proyectos Software\Prueba NuBank\CapitalGains\CapitalGains\bin\Debug\netcoreapp3.1\CapitalGains.dll
+D:\Felver\Proyectos Software\Prueba NuBank\CapitalGains\CapitalGains\bin\Debug\netcoreapp3.1\CapitalGains.pdb
+D:\Felver\Proyectos Software\Prueba NuBank\CapitalGains\CapitalGains\obj\Debug\netcoreapp3.1\CapitalGains.csprojAssemblyReference.cache
+D:\Felver\Proyectos Software\Prueba NuBank\CapitalGains\CapitalGains\obj\Debug\netcoreapp3.1\CapitalGains.AssemblyInfoInputs.cache
+D:\Felver\Proyectos Software\Prueba NuBank\CapitalGains\CapitalGains\obj\Debug\netcoreapp3.1\CapitalGains.AssemblyInfo.cs
+D:\Felver\Proyectos Software\Prueba NuBank\CapitalGains\CapitalGains\obj\Debug\netcoreapp3.1\CapitalGains.dll
+D:\Felver\Proyectos Software\Prueba NuBank\CapitalGains\CapitalGains\obj\Debug\netcoreapp3.1\CapitalGains.pdb
+D:\Felver\Proyectos Software\Prueba NuBank\CapitalGains\CapitalGains\obj\Debug\netcoreapp3.1\CapitalGains.genruntimeconfig.cache
+D:\Felver\Proyectos Software\Prueba NuBank\CapitalGains\CapitalGains\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Felver\Proyectos Software\Prueba NuBank\CapitalGains\CapitalGains\obj\Debug\netcoreapp3.1\CapitalGains.csproj.CoreCompileInputs.cache
+D:\Felver\Proyectos Software\Prueba NuBank\CapitalGains\CapitalGains\obj\Debug\netcoreapp3.1\CapitalGains.csproj.CopyComplete

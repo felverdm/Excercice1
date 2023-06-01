@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZbFR3K+i/6pnHBJNtrowM8UOLPb8I5c8sCAQnVlTQVmPvujDk7Tj7p9xLDA84DXoozrN6yMI7Jk0bDpwBhGt7Q==",
+  "success": true,
+  "projectFilePath": "D:\\Felver\\Proyectos Software\\Prueba NuBank\\CapitalGains\\CapitalGains\\CapitalGains.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
